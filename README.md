@@ -1,2 +1,2 @@
-# Gen-AI  
+# Attendance App 
 ⚠️ Under Developement ⚠️
